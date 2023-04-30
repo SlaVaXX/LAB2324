@@ -1,0 +1,15 @@
+D:\Stud\LAB2324\LAB2324\obj\Debug\net7.0\LAB2324.csproj.AssemblyReference.cache
+D:\Stud\LAB2324\LAB2324\obj\Debug\net7.0\LAB2324.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stud\LAB2324\LAB2324\obj\Debug\net7.0\LAB2324.AssemblyInfoInputs.cache
+D:\Stud\LAB2324\LAB2324\obj\Debug\net7.0\LAB2324.AssemblyInfo.cs
+D:\Stud\LAB2324\LAB2324\obj\Debug\net7.0\LAB2324.csproj.CoreCompileInputs.cache
+D:\Stud\LAB2324\LAB2324\bin\Debug\net7.0\LAB2324.exe
+D:\Stud\LAB2324\LAB2324\bin\Debug\net7.0\LAB2324.deps.json
+D:\Stud\LAB2324\LAB2324\bin\Debug\net7.0\LAB2324.runtimeconfig.json
+D:\Stud\LAB2324\LAB2324\bin\Debug\net7.0\LAB2324.dll
+D:\Stud\LAB2324\LAB2324\bin\Debug\net7.0\LAB2324.pdb
+D:\Stud\LAB2324\LAB2324\obj\Debug\net7.0\LAB2324.dll
+D:\Stud\LAB2324\LAB2324\obj\Debug\net7.0\refint\LAB2324.dll
+D:\Stud\LAB2324\LAB2324\obj\Debug\net7.0\LAB2324.pdb
+D:\Stud\LAB2324\LAB2324\obj\Debug\net7.0\LAB2324.genruntimeconfig.cache
+D:\Stud\LAB2324\LAB2324\obj\Debug\net7.0\ref\LAB2324.dll
